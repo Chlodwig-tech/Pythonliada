@@ -1,0 +1,233 @@
+{
+    "Co można nosić na stopach": {
+        "BUTY SPORTOWE": 40,
+        "SKARPETY": 37,
+        "KOZAKI": 29,
+        "SANDAŁY": 9,
+        "TRZEWIKI": 9
+    },
+    "Podaj przykład czegoś, co traci ważność": {
+        "MLEKO": 51,
+        "MIĘSO": 47,
+        "BILET PARKINGOWY": 33,
+        "PRAWO JAZDY": 21,
+        "KARTA BANKOWA": 14
+    },
+    "Podaj przykład gry, w którą można grać samemu": {
+        "PASJANS": 46,
+        "KLASY": 38,
+        "GRY KOMPUTEROWE": 27,
+        "MEMORY": 15,
+        "KOSZYKÓWKA": 8
+    },
+    "Nazwij coś, co trudno jest zmyć": {
+        "FARBA": 41,
+        "ATRAMENT": 39,
+        "SMAR": 25,
+        "MARKER PERMANENTNY": 13,
+        "OLEJ": 5
+    },
+    "Podaj przykład czegoś, co można trzymać w samochodzie": {
+        "KABLE/ NARZĘDZIA": 32,
+        "APTECZKA": 27,
+        "OKULARY": 17,
+        "UBRANIA NA ZMIANĘ": 12,
+        "PARASOL": 6
+    },
+    "Podaj przykład czegoś, czego ludzie się boją": {
+        "PAJĄKI": 46,
+        "CIEMNOŚĆ": 41,
+        "WĘŻE": 35,
+        "DUCHY": 22,
+        "WYSOKOŚĆ": 13
+    },
+    "Podaj przykład czegoś, co gladiator może zabrać ze sobą do walki": {
+        "MIECZ": 43,
+        "TARCZA": 32,
+        "HEŁM": 21,
+        "TOPÓR": 17,
+        "SZTYLET": 7
+    },
+    "Wymień coś, co kojarzy się z Kopciuszkiem": {
+        "SZKLANY PANTOFELEK": 47,
+        "KSIĄŻĘ": 39,
+        "WRÓŻKA CHRZESTNA": 25,
+        "MYSZY": 17,
+        "PÓŁNOC": 9
+    },
+    "Czym możemy polewać jedzenie?": {
+        "KECZUP": 31,
+        "SOS CZOSNKOWY": 26,
+        "SYROP": 19,
+        "OLEJ/ OLIWA": 12,
+        "MLEKO": 10
+    },
+    "Podaj przykład czegoś, co jest zrobione z mleka": {
+        "MASŁO": 44,
+        "SER": 38,
+        "LODY": 29,
+        "JOGURT": 17,
+        "MLEKO SKONDENSOWANE": 11
+    },
+    "Podaj przykład czegoś, czego można używać do zębów?": {
+        "PASTA DO ZĘBÓW": 36,
+        "APARAT ORTODONTYCZNY": 29,
+        "PRODUKTY WYBIELAJĄCE": 21,
+        "SZCZOTECZKA DO ZĘBÓW": 15,
+        "NAKŁADKI": 9
+    },
+    "Podaj przykład czegoś, co ma korzenie": {
+        "DRZEWO": 37,
+        "WŁOSY": 31,
+        "ZĘBY": 26,
+        "KWIATY": 14,
+        "RODZINA": 9
+    },
+    "Co napełnia się powietrzem?": {
+        "BALON": 50,
+        "KOŁO/ OPONA": 25,
+        "MATERAC": 15
+    },
+    "Co zmienia kolor?": {
+        "KAMELEON": 50,
+        "NIEBO": 25,
+        "LIŚCIE": 15
+    },
+    "Podaj przykład czegoś, co można znaleźć w garażu": {
+        "SAMOCHÓD": 50,
+        "NARZĘDZIA": 25,
+        "ROWER": 15
+    },
+    "Co się klei/ lepi?": {
+        "KLEJ": 50,
+        "MIÓD": 25,
+        "ŻYWICA": 15
+    },
+    "Jakie kwiaty dasz na prezent?": {
+        "RÓŻE": 50,
+        "TULIPANY": 25,
+        "STORCZYK": 15
+    },
+    "Co pijemy do śniadania?": {
+        "KAWA": 50,
+        "KAKAO": 25,
+        "HERBATA": 15
+    },
+    "Podaj przykład owocu, którego skórki nie jemy.": {
+        "ARBUZ": 50,
+        "BANAN": 25,
+        "POMARAŃCZA": 15
+    },
+    "Jakie zwierzę możesz spotkać podczas spaceru przez pola?": {
+        "KROWĘ": 35,
+        "ZAJĄCA": 19,
+        "SARNĘ": 14,
+        "BOCIANA": 12,
+        "MYSZ": 7
+    },
+    "Co kupujemy w tubce?": {
+        "PASTĘ DO ZĘBÓW": 33,
+        "KREM DO RĄK": 19,
+        "KLEJ": 14,
+        "FARBĘ": 12,
+        "MLEKO": 8
+    },
+    "Przykład komiksowego superbohatera": {
+        "SUPERMAN": 30,
+        "BATMAN": 24,
+        "SPIDERMAN": 17,
+        "IRONMAN": 9,
+        "HULK": 8
+    },
+    "Sport, w którym walczymy z przeciwnikiem, ale go nie dotykamy": {
+        "TENIS": 31,
+        "PING-PONG": 24,
+        "SIATKÓWKA": 18,
+        "BADMINTON": 12,
+        "SZACHY": 8
+    },
+    "Państwo, którego nazwa kończy się na 'nia'": {
+        "DANIA": 28,
+        "HISZPANIA": 18,
+        "JAPONIA": 10,
+        "ESTONIA": 5,
+        "RUMUNIA": 4
+    },
+    "Co jest w pociągu i w domu?": {
+        "OKNA": 35,
+        "DRZWI": 29,
+        "TOALETA": 14,
+        "FOTELE": 12,
+        "ZASŁONY": 9
+    },
+    "Dyscyplina sportowa, w której zawodnicy występują w parach?": {
+        "JAZDA FIGUROWA": 32,
+        "TENIS ZIEMNY": 24,
+        "TENIS STOŁOWY": 14,
+        "KAJAKARSTWO": 12,
+        "SIATKÓWKA PLAŻOWA": 2
+    },
+    "Wymień miejsce, w którym można pływać": {
+        "MORZE": 39,
+        "BASEN": 32,
+        "JEZIORO": 25,
+        "OCEAN": 13,
+        "RZEKA": 9
+    },
+    "Jakie rzeczy mogą zniknąć za sprawą magika?": {
+        "KRÓLIK": 47,
+        "OSOBA": 39,
+        "KARTA": 31,
+        "CHUSTKA": 24,
+        "PIENIĄDZE": 12
+    },
+    "Na co można się wspiąć?": {
+        "WZGÓRZE": 46,
+        "KLIF": 38,
+        "DRZEWO": 27,
+        "GÓRA": 17,
+        "DACH": 8
+    },
+    "Co robimy, gdy nie możemy zasnąć?": {
+        "CZYTAMY": 32,
+        "OGLĄDAMY TV": 28,
+        "LICZYMY OWCE": 21,
+        "JEMY": 19,
+        "PIJEMY MLEKO": 7
+    },
+    "Owoc z jedną pestką": {
+        "ŚLIWKA": 50,
+        "WIŚNIA": 25,
+        "MORELA": 15
+    },
+    "Popularne nazwisko": {
+        "KOWALSKI": 50,
+        "NOWAK": 25,
+        "WIŚNIEWSKI": 15
+    },
+    "Na czym możesz siedzieć?": {
+        "KRZESŁO": 50,
+        "FOTEL": 25,
+        "KANAPA": 15
+    },
+    "Zwierzę domowe": {
+        "KOT": 50,
+        "PIES": 25,
+        "CHOMIK": 15
+    },
+    "Miejski ptak": {
+        "GOŁĄB": 50,
+        "WRÓBEL": 25,
+        "SIKORKA": 15
+    },
+    "Co zabieramy na plażę?": {
+        "RĘCZNIK": 50,
+        "NAPÓJ": 25,
+        "KREM DO OPALANIA": 15
+    },
+    "Leży na biurku": {
+        "DŁUGOPIS": 50,
+        "KLAWIATURA": 25,
+        "KALENDARZ": 15
+    }
+}
