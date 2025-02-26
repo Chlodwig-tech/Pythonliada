@@ -6,7 +6,6 @@ export default{
             AX: [false, false, false],
             BX: [false, false, false],
             disabled: true,
-            set_points_disabled: false,
             question: {
                 'name': '',
                 'points': 0,
@@ -56,7 +55,6 @@ export default{
             // this.answers = Object.entries(data[key]).sort((a, b) => b[1] - a[1]);
         },
         next: async function(){
-            this.set_points_disabled = false;
             this.disabled = true;
             const url = window.location.href + "random/";
             var data = await (await fetch(url)).json();
@@ -103,7 +101,6 @@ export default{
             });
         },
         set_teams(){
-            this.set_points_disabled = true;
             fetch(window.location.href + 'teams/', {
                 method: 'POST',
                 headers: {
@@ -177,8 +174,8 @@ export default{
             <hr>
 
             <div class="question">
-                <button :disabled="set_points_disabled" @click="set_points_teams('A')" type="button" :class="'btn btn-info'">Przyznaj punkty {{ teams.A.name }}</button> 
-                <button :disabled="set_points_disabled" @click="set_points_teams('B')" type="button" :class="'btn btn-info'">Przyznaj punkty {{ teams.B.name }}</button> <br>
+                <button @click="set_points_teams('A')" type="button" :class="'btn btn-info'">Przyznaj punkty {{ teams.A.name }}</button> 
+                <button @click="set_points_teams('B')" type="button" :class="'btn btn-info'">Przyznaj punkty {{ teams.B.name }}</button> <br>
                 Punkty: <input :disabled="disabled" type="number" @input="update_question" v-model="question.points" style="width: 10ch;"> <br>
                 Mnożnik: <input :disabled="disabled" type="number" v-model="multiplayer" style="width: 10ch;"> <br/>
                 {{ question.name }}
