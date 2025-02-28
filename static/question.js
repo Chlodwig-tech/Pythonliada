@@ -109,6 +109,12 @@ export default{
             </table>
         </div>
 
+        <div style="display: flex; justify-content: center;">
+            <a href="/final/" type="button" class="btn btn-primary">Finał</a>
+        </div>
+
+
+
 
   `
 }

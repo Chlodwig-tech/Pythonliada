@@ -28,9 +28,11 @@ class Question:
                 for key in answers
             ]
         }
-        
-    
+           
     def set(self, question):
         self.question = question
+
+    def __str__(self):
+        return f'{self.question}'
 
 QUESTION = Question()

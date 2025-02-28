@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block title %} Familiada - Finał {% endblock %}
+
+{% block head %} 
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="{{ url_for('static', filename='app-final.js') }}" type="module" defer="defer"></script>
+{% endblock %}
+
+{% block body %}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        margin-top: 20px;
+    }
+    .container {
+        max-width: 900px;
+    }
+    .table th, .table td {
+        text-align: center;
+    }
+    .question {
+        margin: 20px 0;
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .team-points {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .points-label {
+        font-weight: bold;
+    }
+</style>
+
+<div id="app">
+    <Final></Final>
+</div>
+{% endblock %}

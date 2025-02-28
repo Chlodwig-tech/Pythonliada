@@ -198,8 +198,12 @@ export default{
                 </tbody>
             </table>
 
-            <button @click="next" type="button" class="btn btn-primary btn-lg" style="float: right;">Następne pytanie</button>   
+            <button @click="next" type="button" class="btn btn-primary btn-lg" style="float: right;">Następne pytanie</button>
             <button @click="set_question" type="button" class="btn btn-primary btn-lg">Pokaż na tablicy</button>
+        </div>
+
+        <div style="display: flex; justify-content: center;">
+            <a href="/admin/final/" type="button" class="btn btn-primary">Finał</a>
         </div>
 
 
